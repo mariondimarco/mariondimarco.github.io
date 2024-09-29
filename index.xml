@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marion Di Marco   (née Weller)</title>
-    <link>https://www.cis.lmu.de/~dimarco/</link>
+    <link>https://mariondimarco.github.io/</link>
     <description>Recent content on Marion Di Marco   (née Weller)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
-    <atom:link href="https://www.cis.lmu.de/~dimarco/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mariondimarco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>https://www.cis.lmu.de/~dimarco/home/</link>
+      <link>https://mariondimarco.github.io/home/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://www.cis.lmu.de/~dimarco/home/</guid>
+      <guid>https://mariondimarco.github.io/home/</guid>
       <description>I am a researcher at the School of Computation, Information and Technology at Technische Universität München (TUM).&#xA;My main research interest is the representation of linguistic information in Large Language Models and Machine Translation. I am also interested in compounds, collocations and idiomatic expressions.&#xA;E-mail: marion.dimarco -AT- tum.de</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://www.cis.lmu.de/~dimarco/publications/</link>
+      <link>https://mariondimarco.github.io/publications/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://www.cis.lmu.de/~dimarco/publications/</guid>
+      <guid>https://mariondimarco.github.io/publications/</guid>
       <description>2024&#xA;Marion Di Marco, Alexander Fraser (2024): Analyzing the Understanding of Morphologically Complex Words in Large Language Models. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). Torino/Italy. 2023&#xA;Marion Di Marco, Katharina Hämmerl, Alexander Fraser (2023): A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (Short Paper).</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://www.cis.lmu.de/~dimarco/old_teaching/</link>
+      <link>https://mariondimarco.github.io/old_teaching/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://www.cis.lmu.de/~dimarco/old_teaching/</guid>
+      <guid>https://mariondimarco.github.io/old_teaching/</guid>
       <description>Blockseminar SoSe 2023&#xA;Linguistic Information in Large Language Models II&#xA;8. and 9. August 2023&#xA;In this seminar, we will read and discuss papers concerned with analyzing and representing linguistic information in large language models with a focus on semantics and the understanding of concepts and relations in LLMs, for example identifying metaphors, the understanding of compounds and ontological knowledge.&#xA;The format of this seminar is similar to a reading group: participants should prepare a paper in advance and present it during the seminar as a basis for a discussion (see below for a list of papers), and also write a summary of the paper after the seminar.</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://www.cis.lmu.de/~dimarco/teaching/</link>
+      <link>https://mariondimarco.github.io/teaching/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://www.cis.lmu.de/~dimarco/teaching/</guid>
+      <guid>https://mariondimarco.github.io/teaching/</guid>
       <description>Winter Semester 2024/2025&#xA;Masters Seminar: Concepts and Applications in NLP&#xA;This seminar introduces linguistic background and essential topics in Natural Language Processing. The seminar starts with providing an overview of linguistic concepts and methods, such as morphology, part-of-speech tagging and grammars. We will then look at applications such as machine translation and language modeling. The seminar aims at providing a broad overview over different topics of NLP.&#xA;Location: Room D2.01</description>
     </item>
   </channel>

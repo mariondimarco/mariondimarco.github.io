@@ -10,11 +10,32 @@
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     <atom:link href="https://mariondimarco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Concepts and Applications in NLP</title>
+      <link>https://mariondimarco.github.io/teachingwise2425/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <guid>https://mariondimarco.github.io/teachingwise2425/</guid>
+      <description>Winter Semester 2024/2025&#xA;Masters Seminar: Concepts and Applications in NLP&#xA;This seminar introduces linguistic background and essential topics in Natural Language Processing. The seminar starts with providing an overview of linguistic concepts and methods, such as morphology, part-of-speech tagging and grammars. We will then look at different applications.&#xA;The seminar aims at providing a broad overview over different topics of NLP.&#xA;Location: Room D2.11&#xA;Time: Tuesday 14:15 &amp;ndash; 15:45&#xA;Lectures</description>
+    </item>
+    <item>
+      <title>Generative Models on Text</title>
+      <link>https://mariondimarco.github.io/teachingsose25_gmt/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <guid>https://mariondimarco.github.io/teachingsose25_gmt/</guid>
+      <description>Sommer Semester 2025&#xA;Masters Seminar: Generative Models on Text&#xA;Large Language Models (such as GPT2, GPT3, GPT4, Llama, T5) and Intelligent Chatbots (such as ChatGPT, Claude, Gemini and Copilot) are a very timely topic.&#xA;Contents: N-gram language models, neural language modeling, word2vec, RNNs, Transformers, BERT, RLHF, ChatGPT, multilingual alignment, prompting, transfer learning, domain adaptation, linguistic knowledge in large language models&#xA;Instructors: Prof. Alexander Fraser, Marion Di Marco&#xA;Location: Room D.2.11</description>
+    </item>
+    <item>
       <title>Home</title>
       <link>https://mariondimarco.github.io/home/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       <guid>https://mariondimarco.github.io/home/</guid>
       <description>I am a researcher at the School of Computation, Information and Technology at Technische Universität München (TUM).&#xA;My main research interest is the representation of linguistic information in Large Language Models and Machine Translation. I am also interested in compounds, collocations and idiomatic expressions.&#xA;E-mail: marion.dimarco -AT- tum.de</description>
+    </item>
+    <item>
+      <title>Large Language Models</title>
+      <link>https://mariondimarco.github.io/teachingsose25_llm/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <guid>https://mariondimarco.github.io/teachingsose25_llm/</guid>
+      <description>Sommer Semester 2025&#xA;Bachelors Seminar: Large Language Models&#xA;Large Language Models (such as GPT2, GPT3, GPT4, Llama, T5) and Intelligent Chatbots (such as ChatGPT, Claude, Gemini and Copilot) are a very timely topic.&#xA;Contents: N-gram language models, neural language modeling, word2vec, RNNs, Transformers, BERT, RLHF, ChatGPT, multilingual alignment, prompting, transfer learning, domain adaptation, linguistic knowledge in large language models&#xA;Instructors: Prof. Alexander Fraser, Marion Di Marco&#xA;Location: Room D.2.11&#xA;Time: Tuesday 16:15 &amp;ndash; 17:45</description>
     </item>
     <item>
       <title>Publications</title>
@@ -25,17 +46,17 @@
     </item>
     <item>
       <title>Teaching</title>
+      <link>https://mariondimarco.github.io/teaching/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <guid>https://mariondimarco.github.io/teaching/</guid>
+      <description>Sommersemester 2025 Generative Models on Text (Masters Seminar) Large Language Models (Bachelors Seminar) Wintersemester 2024/2025 Concepts and Applications in NLP (Masters Seminar) Sommersemester 2024 Large Language Models (Bachelors Seminar) </description>
+    </item>
+    <item>
+      <title>Teaching</title>
       <link>https://mariondimarco.github.io/teachingsose25/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       <guid>https://mariondimarco.github.io/teachingsose25/</guid>
       <description>Sommer Semester 2025&#xA;Generative Models on Text — Large Language Models Large Language Models (such as GPT2, GPT3, GPT4, Llama, T5) and Intelligent Chatbots (such as ChatGPT, Claude, Gemini and Copilot) are a very timely topic.&#xA;Contents: N-gram language models, neural language modeling, word2vec, RNNs, Transformers, BERT, RLHF, ChatGPT, multilingual alignment, prompting, transfer learning, domain adaptation, linguistic knowledge in large language models&#xA;Location: Room D.2.11&#xA;Time: Tuesday 16:15 &amp;ndash; 17:45</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://mariondimarco.github.io/teachingwise2425/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://mariondimarco.github.io/teachingwise2425/</guid>
-      <description>Winter Semester 2024/2025&#xA;Masters Seminar: Concepts and Applications in NLP&#xA;This seminar introduces linguistic background and essential topics in Natural Language Processing. The seminar starts with providing an overview of linguistic concepts and methods, such as morphology, part-of-speech tagging and grammars. We will then look at different applications.&#xA;The seminar aims at providing a broad overview over different topics of NLP.&#xA;Location: Room D2.11&#xA;Time: Tuesday 14:15 &amp;ndash; 15:45&#xA;Lectures</description>
     </item>
   </channel>
 </rss>

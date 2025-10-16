@@ -31,6 +31,13 @@
       <description>I am a researcher at the School of Computation, Information and Technology at Technische Universität München (TUM).&#xA;My main research interest is the representation of linguistic information in Large Language Models and Machine Translation. I am also interested in compounds, collocations and idiomatic expressions.&#xA;E-mail: marion.dimarco -AT- tum.de</description>
     </item>
     <item>
+      <title>Introduction to Natural Language Processing</title>
+      <link>https://mariondimarco.github.io/teachingwise2526_nlp/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <guid>https://mariondimarco.github.io/teachingwise2526_nlp/</guid>
+      <description>Winter Semester 2025/2026&#xA;Lecture: Introduction to Natural Language Processing&#xA;Instructors: Marion Di Marco and Lukas Edman&#xA;Location: Room D.2.11&#xA;Time: Tuesday 16:15 &amp;ndash; 17:45 (Lecture)&#xA;Thursday 16:15 &amp;ndash; 17:45 (Excercise)&#xA;Material&#xA;see course Moodle&#xA;Literature&#xA;Speech and Language Processing&#xA;Dan Jurafsky and James H. Martin (2024; 3rd ed. draft)</description>
+    </item>
+    <item>
       <title>Large Language Models</title>
       <link>https://mariondimarco.github.io/teachingsose25_llm/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
@@ -49,7 +56,7 @@
       <link>https://mariondimarco.github.io/teaching/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       <guid>https://mariondimarco.github.io/teaching/</guid>
-      <description>Sommersemester 2025 Generative Models on Text (Masters Seminar) Large Language Models (Bachelors Seminar) Wintersemester 2024/2025 Concepts and Applications in NLP (Masters Seminar) Sommersemester 2024 Large Language Models (Bachelors Seminar) </description>
+      <description>Sommersemester 2025/2026 Introduction to Natural Language Processing Sommersemester 2025 Generative Models on Text (Masters Seminar) Large Language Models (Bachelors Seminar) Wintersemester 2024/2025 Concepts and Applications in NLP (Masters Seminar) Sommersemester 2024 Large Language Models (Bachelors Seminar) </description>
     </item>
     <item>
       <title>Teaching</title>
